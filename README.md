@@ -14,3 +14,7 @@ Old mobile phone for monitoring
   
 
 由于没有公网ip，此项目 服务端与客户端须处于同一局域网内
+
+<img title="" src="./art/1.png" alt="1.png" width="678">
+
+![2.png](./art/2.png)
